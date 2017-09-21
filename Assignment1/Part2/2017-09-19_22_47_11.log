@@ -1,0 +1,2 @@
+2017-09-19 22:47:12,282 - __main__ - INFO - Scraping the website and storing the content in four seperate lists
+2017-09-19 22:47:19,535 - __main__ - INFO - Creating a Data frame and writing it as csv
